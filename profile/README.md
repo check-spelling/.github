@@ -11,7 +11,7 @@ This enables you to get started easily, just drop the repository contents into y
 
 # [🍴 checkout-merge action](https://github.com/check-spelling/checkout-merge)
 
-Thie [checkout-merge github action](https://github.com/check-spelling/checkout-merge) is a helper action to for repositories that receive pull requests and need to validate the potential merge result of the pull request.
+The [checkout-merge github action](https://github.com/check-spelling/checkout-merge) is a helper action to for repositories that receive pull requests and need to validate the potential merge result of the pull request.
 
 This action works around bugs in GitHub's current method of maintaining a `refs/pulls/X/merge`. One such bug involves GitHub serving a stale merge if the current branch isn't mergable.
 
