@@ -1,4 +1,4 @@
-# Security Policy
+# [<img src="https://raw.githubusercontent.com/check-spelling/art/main/logo/spell-check.png" width=24 alt="check-spelling logo"> check-spelling organization](https://github.com/check-spelling/) Security Policy
 
 * [Supported Software](#supported-software)
   * [Supported Versions](#supported-versions)
@@ -10,8 +10,10 @@
 
 ## Supported Software
 
-Not all repositories owned by this organization are supported software.
-This especially includes [forks](#forks) and [demos](#demo-repositories).
+Most repositories owned by [this organization](../../../) are [not supported software](#unsupported-repositories).
+Especially [demos](#demo-repositories).
+
+Potentially supported repositories are limited to a subset of [source repositories](https://github.com/orgs/check-spelling/repositories?q=&type=source) (again, excluding [demos](#demo-repositories)).
 
 ### Supported Versions
 
