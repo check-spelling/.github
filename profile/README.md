@@ -44,3 +44,5 @@ This repository may eventually gain [organization template content](https://docs
 # Other repositories
 
 Any other repository you see here is probably being used to test the check-spelling action. They may be deleted at any time or replaced by cleaner versions.
+
+`actions-*` are forks of https://github.com/actions repositories to enable applying patches that haven't been merged upstream.
