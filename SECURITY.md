@@ -52,3 +52,4 @@ and possibly a [CVE](https://docs.github.com/en/code-security/repository-securit
 Reports may be sent to:
 * [:email: security@check-spelling.dev](mailto:security@check-spelling.dev)
 * [:bird: @\_check_spelling](https://twitter.com/_check_spelling)
+* [:elephant: @checkspelling](https://fosstodon.org/@checkspelling)
