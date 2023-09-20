@@ -27,6 +27,14 @@ This contains organization art.
 
 This contains the content for the [check-spelling.dev website](https://www.check-spelling.dev/).
 
+## [📚 cspell-dicts](https://github.com/check-spelling/cspell-dicts)
+
+This contains the supplemental dictionaries used by check-spelling.
+
+## [🖼️ images](https://github.com/check-spelling/images)
+
+This contains images used by the wiki / documentation.
+
 ## [🐙 .github repository](https://github.com/check-spelling/.github)
 
 Mostly the content you're reading now.
