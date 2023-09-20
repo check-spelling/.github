@@ -11,7 +11,7 @@ This enables you to get started easily, just drop the repository contents into y
 
 # [🍴 checkout-merge action](https://github.com/check-spelling/checkout-merge)
 
-Thie [checkout-merge github action](https://github.com/check-spelling/checkout-merge) is a helper action to for repositories that receive pull requests and need to validate the potential merge result of the pull request.
+The [checkout-merge github action](https://github.com/check-spelling/checkout-merge) is a helper action to for repositories that receive pull requests and need to validate the potential merge result of the pull request.
 
 This action works around bugs in GitHub's current method of maintaining a `refs/pulls/X/merge`. One such bug involves GitHub serving a stale merge if the current branch isn't mergable.
 
@@ -23,7 +23,7 @@ It also offers a friendlier user experience for when there isn't a merge availab
 
 This contains organization art.
 
-## [🌏 check-spelling-action repostitory](https://github.com/check-spelling/check-spelling-action)
+## [🌏 check-spelling-action repository](https://github.com/check-spelling/check-spelling-action)
 
 This contains the content for the [check-spelling.dev website](https://www.check-spelling.dev/).
 
