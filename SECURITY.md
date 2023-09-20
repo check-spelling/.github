@@ -26,12 +26,6 @@ In general, this is the matrix of supported versions for supported repositories 
 
 ## Unsupported Repositories
 
-### Forks
-
-:information_source: If a repository is a [:fork_and_knife:fork](https://github.com/orgs/check-spelling/repositories?type=fork), it is probably not supported and shouldn't be used for production systems.
-
-:fork_and_knife:Forks are generally used to test [check-spelling/check-spelling](https://github.com/check-spelling/check-spelling) and [check-spelling/spell-check-this](https://github.com/check-spelling/spell-check-this/).
-
 ### Demo repositories
 
 This includes:
@@ -43,7 +37,6 @@ This includes:
 
 Accepted vulnerabilities will be issued a [GHSA](https://docs.github.com/en/code-security/repository-security-advisories/about-github-security-advisories-for-repositories)
 and possibly a [CVE](https://docs.github.com/en/code-security/repository-security-advisories/about-github-security-advisories-for-repositories#cve-identification-numbers).
-
 
 ## Reporting a Vulnerability
 
