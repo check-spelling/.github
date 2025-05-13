@@ -1,0 +1,5 @@
+checkspelling
+GHSA
+img
+mergable
+website
