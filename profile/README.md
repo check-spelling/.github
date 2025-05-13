@@ -29,7 +29,7 @@ It also offers a friendly user experience for when repository/releases are unava
 
 This contains organization art.
 
-## [🌏 check-spelling-action repository](https://github.com/check-spelling/check-spelling-action)
+## [🌏 check-spelling-docs repository](https://github.com/check-spelling/check-spelling-docs)
 
 This contains the content for the [check-spelling.dev website](https://www.check-spelling.dev/).
 
