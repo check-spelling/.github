@@ -17,6 +17,12 @@ This action works around bugs in GitHub's current method of maintaining a `refs/
 
 It also offers a friendlier user experience for when there isn't a merge available because of merge conflicts.
 
+# [🍴 gh-program-downloader action](https://github.com/check-spelling/gh-program-downloader)
+
+The [gh-program-downloader github action](https://github.com/check-spelling/gh-program-downloader) is a helper action to download programs from other github repository releases.
+
+It also offers a friendly user experience for when repository/releases are unavailable.
+
 # Other organization specific repositories
 
 ## [🌈 art repository](https://github.com/check-spelling/art)
