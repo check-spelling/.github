@@ -10,10 +10,7 @@
 
 ## Supported Software
 
-Most repositories owned by [this organization](../../../) are [not supported software](#unsupported-repositories).
-Especially [demos](#demo-repositories).
-
-Potentially supported repositories are limited to a subset of [source repositories](https://github.com/orgs/check-spelling/repositories?q=&type=source) (again, excluding [demos](#demo-repositories)).
+Supported repositories are limited to a subset of [source repositories](https://github.com/orgs/check-spelling/repositories?q=&type=source) (excluding [demos](#demo-repositories)).
 
 ### Supported Versions
 
@@ -28,12 +25,15 @@ In general, this is the matrix of supported versions for supported repositories 
 
 ## Unsupported Repositories
 
+* [Archived repositories](https://github.com/orgs/check-spelling/repositories?q=archived%3Atrue)
+* [Forked repositories](https://github.com/orgs/check-spelling/repositories?q=fork%3Atrue)
+* [Demo repositories](#demo-repositories)
+
 ### Demo repositories
 
 This includes:
 * [example](https://github.com/orgs/check-spelling/repositories?q=example&type=source) repositories
 * [test](https://github.com/orgs/check-spelling/repositories?q=test&type=source) repositories
-* repositories named for other vendors (typically to demonstrate/test check-spelling against their software)
 
 ## Security Notices
 
@@ -46,5 +46,5 @@ and possibly a [CVE](https://docs.github.com/en/code-security/repository-securit
 
 Reports may be sent to:
 * [:email: security@check-spelling.dev](mailto:security@check-spelling.dev)
-* [:bird: @\_check_spelling](https://twitter.com/_check_spelling)
+* [𝕏 @\_check_spelling](https://x.com/_check_spelling)
 * [:elephant: @checkspelling](https://fosstodon.org/@checkspelling)
